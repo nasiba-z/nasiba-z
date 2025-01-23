@@ -1,6 +1,6 @@
 ## Nasiba Zokirova - Data Professional with 10+ years cross-industry experience 👩🏽‍💻
 
-Hello, I'm Nasiba Zokirova, a Senior Data Scientist, Mathematician and AI enthusiast with 10+ year of cross-industry experience. 
+Hello, I'm Nasiba Zokirova, a Senior Data Scientist, Mathematician and AI enthusiast. 
 
 
 ### About Me:
