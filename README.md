@@ -6,7 +6,7 @@ Hello, I'm Nasiba Zokirova, a Senior Data Scientist, Mathematician and AI enthus
 ### About Me:
 - 🔭 I’m currently working on a databricks-automl project, and the integration of ART-trees into postgres' GIN algorithm.
 - 🌱 I’m learning more about leadership in Data Industry.
-- 📫 How to reach me: zokirovanasiba@gmail.com
+- 📫 How to reach me: nasiba.zokirova@outlook.de
 
 
 ## 📈 GitHub Stats:
