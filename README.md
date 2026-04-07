@@ -1,11 +1,10 @@
 ## Nasiba Zokirova - Data Professional with 10+ years cross-industry experience 👩🏽‍💻
 
-Hello, I'm Nasiba Zokirova, a Senior Data Scientist, Mathematician and AI enthusiast. 
+Hello, I'm Nasiba Zokirova, AI Engineer, Data Scientist, Mathematician. 
 
 
 ### About Me:
-- 🔭 I’m currently working on a databricks-automl project, and the integration of ART-trees into postgres' GIN algorithm.
-- 🌱 I’m learning more about leadership in Data Industry.
+- 🔭 I’m currently working on a agentic ai for enterprise.
 - 📫 How to reach me: nasiba.zokirova@outlook.de
 
 
