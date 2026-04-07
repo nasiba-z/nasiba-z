@@ -9,4 +9,4 @@ Hello, I'm Nasiba Zokirova, AI Engineer, Data Scientist, Mathematician.
 
 
 ## 📈 GitHub Stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nasibaz&show_icons=true&theme=dark&count_private=true)](https://github-readme-stats.vercel.app/api/wakatime?username=nasiba-z)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nasiba-z&show_icons=true&theme=dark)
