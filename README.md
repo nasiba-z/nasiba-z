@@ -30,5 +30,4 @@ AI Engineer | Data Scientist | Ex-Lead DS @ Mercedes-Benz
 - LinkedIn: https://www.linkedin.com/in/nasiba-zokirova/
 
 
-## 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nasiba-z&show_icons=true&theme=dark)
+
