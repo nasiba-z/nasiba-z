@@ -1,11 +1,33 @@
-## Nasiba Zokirova - Data Professional with 10+ years cross-industry experience 👩🏽‍💻
+## Nasiba Zokirova  
+AI Engineer | Data Scientist | Ex-Lead DS @ Mercedes-Benz  
 
-Hello, I'm Nasiba Zokirova, AI Engineer, Data Scientist, Mathematician. 
+---
 
+### 🚀 What I Do
+- Production-grade AI systems (GenAI, Recommenders, ML)
+- Enterprise AI architecture (Databricks, Azure, GCP)
+- Applied ML in regulated industries (FS, Mobility)
 
-### About Me:
-- 🔭 I’m currently working on a agentic ai for enterprise.
-- 📫 How to reach me: nasiba.zokirova@outlook.de
+---
+
+### 🔧 Tech Stack
+- Python, SQL, PySpark
+- Databricks, Snowflake, BigQuery
+- Vertex AI, Azure ML
+- LLMs, RAG, Agentic Systems
+
+---
+
+### 📂 Selected Work
+- Private Equity AI Research Assistant (RAG + Agents)
+- Enterprise AI Assistant (T-Systems demo)
+- Pricing & Retention Models @ Mercedes-Benz
+
+---
+
+### 📫 Contact
+- Email: nasiba.zokirova@outlook.de
+- LinkedIn: https://www.linkedin.com/in/nasiba-zokirova/
 
 
 ## 📈 GitHub Stats:
